@@ -19,8 +19,8 @@ implements ActionListener, WindowListener {
         add(btnCount);
         btnCount.addActionListener(this);
         addWindowListener(this);
-        setTitle("prjava03");
-        setSize(250, 100);
+        setTitle("Nova finestra prjava03-YudesP");
+        setSize(450, 100);
         setVisible(true);
         
     }
