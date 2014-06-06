@@ -3,8 +3,8 @@
 package prjava03.yudesp;
 import java.awt.*;
 import java.awt.event.*;
-import java.net.*;
-import java.sql.*;
+import java.io.*;
+import java.text.*;
 
 public class Prjava03YudesP extends Frame
 implements ActionListener, WindowListener {
